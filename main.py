@@ -5,7 +5,7 @@ import random #--> Libreria para generar numeros aletatoris, para mezcla aleator
 import sys #--> Libreria para interactuar con el entorno de ejecucion y con las variables de entorno del sistema
 from pygame import mixer #--> Libreria para manejar el audio en juegosz,y reproducir efectos de sonido y música de fondo.
 
-# INICIO DEL JUEGO
+#INICIO DEL JUEGO
 
 try:
     #2 INICIAR PYGAME
